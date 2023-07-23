@@ -83,7 +83,7 @@
     font-weight: 780;
     position: absolute;
     z-index: 1;
-    top: 410px;
+    bottom: 132px;
     color: var(--color-secondary);
     margin-left: 80px;
 }
